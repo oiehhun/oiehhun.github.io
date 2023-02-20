@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "TAEHUN LEE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Yensei Univ. Master in Digital Analytics"
+  bio              : "Yensei Univ.\ Master in Digital Analytics"
   location         : "Seoul"
   email            :
   links:
