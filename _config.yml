@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "TAEHUN LEE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Yensei Univ.<br/>Master in Digital Analytics"
+  bio              : "Yensei University<br/>Master in Digital Analytics"
   location         : "Seoul"
   email            :
   links:
@@ -127,7 +127,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/oiehhun/"
 
 # Site Footer
 footer:
